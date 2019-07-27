@@ -1,0 +1,1047 @@
+# This file contains translations for all translatable strings stored within data files
+# which relate to displayable celestial objects. These need a translation separate from the App translations.
+# Currently these are only names of solar system objects.
+# It is not meant to be compiled but just parsed by gettext
+
+#
+# Planets and satellites from ssystem_major.ini and ssystem_minor.ini files
+#
+
+# TRANSLATORS: https://en.wikipedia.org/wiki/Sun
+_("Sun","star")
+
+#
+# Major planets
+#
+# TRANSLATORS: https://en.wikipedia.org/wiki/Mercury_(planet)
+_("Mercury","major planet")
+# TRANSLATORS: https://en.wikipedia.org/wiki/Venus
+_("Venus","major planet")
+# TRANSLATORS: https://en.wikipedia.org/wiki/Earth
+_("Earth","major planet")
+# TRANSLATORS: https://en.wikipedia.org/wiki/Mars
+_("Mars","major planet")
+# TRANSLATORS: https://en.wikipedia.org/wiki/Jupiter
+_("Jupiter","major planet")
+# TRANSLATORS: https://en.wikipedia.org/wiki/Saturn
+_("Saturn","major planet")
+# TRANSLATORS: https://en.wikipedia.org/wiki/Uranus
+_("Uranus","major planet")
+# TRANSLATORS: https://en.wikipedia.org/wiki/Neptune
+_("Neptune","major planet")
+
+#
+# Moons
+#
+
+# EARTH:
+# TRANSLATORS: Moon of Earth (EI)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Moon
+_("Moon","moon")
+
+# MARS:
+# TRANSLATORS: Moon of Mars (MII)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Deimos_(moon)
+_("Deimos","moon")
+# TRANSLATORS: Moon of Mars (MI)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Phobos_(moon)
+_("Phobos","moon")
+
+# JUPITER:
+# TRANSLATORS: Moon of Jupiter (JI)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Io_(moon)
+_("Io","moon")
+# TRANSLATORS: Moon of Jupiter (JII)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Europa_(moon)
+_("Europa","moon")
+# TRANSLATORS: Moon of Jupiter (JIII)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Ganymede_(moon)
+_("Ganymede","moon")
+# TRANSLATORS: Moon of Jupiter (JIV)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Callisto_(moon)
+_("Callisto","moon")
+# TRANSLATORS: Moon of Jupiter (JV)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Amalthea_(moon)
+_("Amalthea","moon")
+# TRANSLATORS: Moon of Jupiter (JVI)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Himalia_(moon)
+_("Himalia","moon")
+# TRANSLATORS: Moon of Jupiter (JVII)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Elara_(moon)
+_("Elara","moon")
+# TRANSLATORS: Moon of Jupiter (JVIII)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Pasiphae_(moon)
+_("Pasiphae","moon")
+# TRANSLATORS: Moon of Jupiter (JIX)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Sinope_(moon)
+_("Sinope","moon")
+# TRANSLATORS: Moon of Jupiter (JX)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Lysithea_(moon)
+_("Lysithea","moon")
+# TRANSLATORS: Moon of Jupiter (JXI)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Carme_(moon)
+_("Carme","moon")
+# TRANSLATORS: Moon of Jupiter (JXII)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Ananke_(moon)
+_("Ananke","moon")
+# TRANSLATORS: Moon of Jupiter (JXIII)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Leda_(moon)
+_("Leda","moon")
+# TRANSLATORS: Moon of Jupiter (JXIV)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Thebe_(moon)
+_("Thebe","moon")
+# TRANSLATORS: Moon of Jupiter (JXV)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Adrastea_(moon)
+_("Adrastea","moon")
+# TRANSLATORS: Moon of Jupiter (JXVI)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Metis_(moon)
+_("Metis","moon")
+
+# SATURN:
+# TRANSLATORS: Moon of Saturn (SI)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Mimas_(moon)
+_("Mimas","moon")
+# TRANSLATORS: Moon of Saturn (SII)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Enceladus
+_("Enceladus","moon")
+# TRANSLATORS: Moon of Saturn (SIII)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Tethys_(moon)
+_("Tethys","moon")
+# TRANSLATORS: Moon of Saturn (SIV)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Dione_(moon)
+_("Dione","moon")
+# TRANSLATORS: Moon of Saturn (SV)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Rhea_(moon)
+_("Rhea","moon")
+# TRANSLATORS: Moon of Saturn (SVI)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Titan_(moon)
+_("Titan","moon")
+# TRANSLATORS: Moon of Saturn (SVII)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Hyperion_(moon)
+_("Hyperion","moon")
+# TRANSLATORS: Moon of Saturn (SVIII)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Iapetus_(moon)
+_("Iapetus","moon")
+# TRANSLATORS: Moon of Saturn (SIX)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Phoebe_(moon)
+_("Phoebe","moon")
+# TRANSLATORS: Moon of Saturn (SX)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Janus_(moon)
+_("Janus","moon")
+# TRANSLATORS: Moon of Saturn (SXI)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Epimetheus_(moon)
+_("Epimetheus","moon")
+# TRANSLATORS: Moon of Saturn (SXII)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Helene_(moon)
+_("Helene","moon")
+# TRANSLATORS: Moon of Saturn (SXIII)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Telesto_(moon)
+_("Telesto","moon")
+# TRANSLATORS: Moon of Saturn (SXIV)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Calypso_(moon)
+_("Calypso","moon")
+# TRANSLATORS: Moon of Saturn (SXV)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Atlas_(moon)
+_("Atlas","moon")
+# TRANSLATORS: Moon of Saturn (SXVI)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Prometheus_(moon)
+_("Prometheus","moon")
+# TRANSLATORS: Moon of Saturn (SXVII)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Pandora_(moon)
+_("Pandora","moon")
+# TRANSLATORS: Moon of Saturn (SXVIII)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Pan_(moon)
+_("Pan","moon")
+
+# URANUS:
+# TRANSLATORS: Moon of Uranus (UI)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Ariel_(moon)
+_("Ariel","moon")
+# TRANSLATORS: Moon of Uranus (UII)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Umbriel_(moon)
+_("Umbriel","moon")
+# TRANSLATORS: Moon of Uranus (UIII)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Titania_(moon)
+_("Titania","moon")
+# TRANSLATORS: Moon of Uranus (UIV)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Oberon_(moon)
+_("Oberon","moon")
+# TRANSLATORS: Moon of Uranus (UV)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Miranda_(moon)
+_("Miranda","moon")
+# TRANSLATORS: Moon of Uranus (UVI)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Cordelia_(moon)
+_("Cordelia","moon")
+# TRANSLATORS: Moon of Uranus (UVII)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Ophelia_(moon)
+_("Ophelia","moon")
+# TRANSLATORS: Moon of Uranus (UVIII)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Bianca_(moon)
+_("Bianca","moon")
+# TRANSLATORS: Moon of Uranus (UIX)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Cressida_(moon)
+_("Cressida","moon")
+# TRANSLATORS: Moon of Uranus (UX)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Desdemona_(moon)
+_("Desdemona","moon")
+# TRANSLATORS: Moon of Uranus (UXI)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Juliet_(moon)
+_("Juliet","moon")
+
+# NEPTUNE:
+# TRANSLATORS: Moon of Neptune (NI)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Triton_(moon)
+_("Triton","moon")
+# TRANSLATORS: Moon of Neptune (NII)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Nereid_(moon)
+_("Nereid","moon")
+# TRANSLATORS: Moon of Neptune (NIII)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Naiad_(moon)
+_("Naiad","moon")
+# TRANSLATORS: Moon of Neptune (NIV)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Thalassa_(moon)
+_("Thalassa","moon")
+# TRANSLATORS: Moon of Neptune (NV)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Despina_(moon)
+_("Despina","moon")
+# TRANSLATORS: Moon of Neptune (NVI)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Galatea_(moon)
+_("Galatea","moon")
+# TRANSLATORS: Moon of Neptune (NVII)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Larissa_(moon)
+_("Larissa","moon")
+# TRANSLATORS: Moon of Neptune (NVIII)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Proteus_(moon)
+_("Proteus","moon")
+# TRANSLATORS: Moon of Neptune (NIX)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Halimede_(moon)
+_("Halimede","moon")
+# TRANSLATORS: Moon of Neptune (NX)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Psamathe_(moon)
+_("Psamathe","moon")
+# TRANSLATORS: Moon of Neptune (NXI)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Sao_(moon)
+_("Sao","moon")
+# TRANSLATORS: Moon of Neptune (NXII)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Laomedeia_(moon)
+_("Laomedeia","moon")
+# TRANSLATORS: Moon of Neptune (NXIII)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Neso_(moon)
+_("Neso","moon")
+
+# PLUTO:
+# TRANSLATORS: Moon of Pluto (PI)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Charon_(moon)
+_("Charon","moon")
+# TRANSLATORS: Moon of Pluto (PII)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Nix_(moon)
+_("Nix","moon")
+# TRANSLATORS: Moon of Pluto (PIII)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Hydra_(moon)
+_("Hydra","moon")
+# TRANSLATORS: Moon of Pluto (PIV)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Kerberos_(moon)
+_("Kerberos","moon")
+# TRANSLATORS: Moon of Pluto (PV)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Styx_(moon)
+_("Styx","moon")
+
+#
+# Special celestial objects
+#
+
+_("Solar System Observer","special celestial body")
+_("Earth Observer","special celestial body")
+# TRANSLATORS: "Planet name" displayed when "flying" to another planet with Ctrl+G.
+_("SpaceShip","special celestial body")
+
+#
+# Minor planets from the default ssystem_minor.ini
+#
+
+# TRANSLATORS: Dwarf planet (1) Ceres
+# TRANSLATORS: https://en.wikipedia.org/wiki/Ceres_(dwarf_planet)
+_("Ceres","minor planet")
+# TRANSLATORS: Asteroid (2) Pallas
+# TRANSLATORS: https://en.wikipedia.org/wiki/2_Pallas
+_("Pallas","minor planet")
+# TRANSLATORS: Asteroid (3) Juno
+# TRANSLATORS: https://en.wikipedia.org/wiki/3_Juno
+_("Juno","minor planet")
+# TRANSLATORS: Asteroid (4) Vesta
+# TRANSLATORS: https://en.wikipedia.org/wiki/4_Vesta
+_("Vesta","minor planet")
+# TRANSLATORS: Asteroid (9) Metis
+# TRANSLATORS: https://en.wikipedia.org/wiki/9_Metis
+_("Metis","minor planet")
+# TRANSLATORS: Asteroid (52) Europa
+# TRANSLATORS: https://en.wikipedia.org/wiki/52_Europa
+_("Europa","minor planet")
+# TRANSLATORS: Asteroid (55) Pandora
+# TRANSLATORS: https://en.wikipedia.org/wiki/55_Pandora
+_("Pandora","minor planet")
+# TRANSLATORS: Asteroid (74) Galatea
+# TRANSLATORS: https://en.wikipedia.org/wiki/74_Galatea
+_("Galatea","minor planet")
+# TRANSLATORS: Asteroid (106) Dione
+# TRANSLATORS: https://en.wikipedia.org/wiki/106_Dione
+_("Dione","minor planet")
+# TRANSLATORS: Asteroid (171) Ophelia
+# TRANSLATORS: https://en.wikipedia.org/wiki/171_Ophelia
+_("Ophelia","minor planet")
+# TRANSLATORS: Asteroid (218) Bianca
+# TRANSLATORS: https://en.wikipedia.org/wiki/218_Bianca
+_("Bianca","minor planet")
+# TRANSLATORS: Asteroid (593) Titania
+# TRANSLATORS: https://en.wikipedia.org/wiki/593_Titania
+_("Titania","minor planet")
+# TRANSLATORS: Asteroid (666) Desdemona
+# TRANSLATORS: https://en.wikipedia.org/wiki/666_Desdemona
+_("Desdemona","minor planet")
+# TRANSLATORS: Asteroid (1162) Larissa
+# TRANSLATORS: https://en.wikipedia.org/wiki/1162_Larissa
+_("Larissa","minor planet")
+# TRANSLATORS: Asteroid (1809) Prometheus
+# TRANSLATORS: https://en.wikipedia.org/wiki/1809_Prometheus
+_("Prometheus","minor planet")
+# TRANSLATORS: Asteroid (1810) Epimetheus
+# TRANSLATORS: https://en.wikipedia.org/wiki/1810_Epimetheus
+_("Epimetheus","minor planet")
+# TRANSLATORS: Asteroid (2758) Cordelia
+# TRANSLATORS: https://en.wikipedia.org/wiki/2758_Cordelia
+_("Cordelia","minor planet")
+# TRANSLATORS: Asteroid (4450) Pan
+# TRANSLATORS: https://en.wikipedia.org/wiki/4450_Pan
+_("Pan","minor planet")
+# TRANSLATORS: TNO/Asteroid (20000) Varuna
+# TRANSLATORS: https://en.wikipedia.org/wiki/20000_Varuna
+_("Varuna","minor planet")
+# TRANSLATORS: Plutino (38628) Huya
+# TRANSLATORS: https://en.wikipedia.org/wiki/38628_Huya
+_("Huya","minor planet")
+# TRANSLATORS: TNO/Asteroid (50000) Quaoar
+# TRANSLATORS: https://en.wikipedia.org/wiki/50000_Quaoar
+_("Quaoar","minor planet")
+# TRANSLATORS: TNO/Asteroid (90377) Sedna
+# TRANSLATORS: https://en.wikipedia.org/wiki/90377_Sedna
+_("Sedna","minor planet")
+# TRANSLATORS: TNO/Asteroid (90482) Orcus
+# TRANSLATORS: https://en.wikipedia.org/wiki/90482_Orcus
+_("Orcus","minor planet")
+# TRANSLATORS: Cubewano (120347) Salacia
+# TRANSLATORS: https://en.wikipedia.org/wiki/120347_Salacia
+_("Salacia","minor planet")
+# TRANSLATORS: Dwarf planet (134340) Pluto
+# TRANSLATORS: https://en.wikipedia.org/wiki/134340_Pluto
+_("Pluto","minor planet")
+# TRANSLATORS: TNO/Asteroid (136108) Haumea
+# TRANSLATORS: https://en.wikipedia.org/wiki/136108_Haumea
+_("Haumea","minor planet")
+# TRANSLATORS: Dwarf planet (136199) Eris
+# TRANSLATORS: https://en.wikipedia.org/wiki/136199_Eris
+_("Eris","minor planet")
+# TRANSLATORS: TNO/Asteroid (136472) Makemake
+# TRANSLATORS: https://en.wikipedia.org/wiki/136472_Makemake
+_("Makemake","minor planet")
+# TRANSLATORS: Cubewano (174567) Varda
+# TRANSLATORS: https://en.wikipedia.org/wiki/174567_Varda
+_("Varda","minor planet")
+
+#
+# Minor planets that are not in the default ssystem_minor.ini
+#
+# TRANSLATORS: Asteroid (5) Astraea
+# TRANSLATORS: https://en.wikipedia.org/wiki/5_Astraea
+_("Astraea","minor planet")
+# TRANSLATORS: Asteroid (6) Hebe
+# TRANSLATORS: https://en.wikipedia.org/wiki/6_Hebe
+_("Hebe","minor planet")
+# TRANSLATORS: Asteroid (7) Iris
+# TRANSLATORS: https://en.wikipedia.org/wiki/7_Iris
+_("Iris","minor planet")
+# TRANSLATORS: Asteroid (8) Flora
+# TRANSLATORS: https://en.wikipedia.org/wiki/8_Flora
+_("Flora","minor planet")
+# TRANSLATORS: Asteroid (10) Hygiea
+# TRANSLATORS: https://en.wikipedia.org/wiki/10_Hygiea
+_("Hygiea","minor planet")
+# TRANSLATORS: Asteroid (11) Parthenope
+# TRANSLATORS: https://en.wikipedia.org/wiki/11_Parthenope
+_("Parthenope","minor planet")
+# TRANSLATORS: Asteroid (13) Egeria
+# TRANSLATORS: https://en.wikipedia.org/wiki/13_Egeria
+_("Egeria","minor planet")
+# TRANSLATORS: Asteroid (15) Eunomia
+# TRANSLATORS: https://en.wikipedia.org/wiki/15_Eunomia
+_("Eunomia","minor planet")
+# TRANSLATORS: Asteroid (16) Psyche
+# TRANSLATORS: https://en.wikipedia.org/wiki/16_Psyche
+_("Psyche","minor planet")
+# TRANSLATORS: Asteroid (18) Melpomene
+# TRANSLATORS: https://en.wikipedia.org/wiki/18_Melpomene
+_("Melpomene","minor planet")
+# TRANSLATORS: Asteroid (19) Fortuna
+# TRANSLATORS: https://en.wikipedia.org/wiki/19_Fortuna
+_("Fortuna","minor planet")
+# TRANSLATORS: Asteroid (20) Massalia
+# TRANSLATORS: https://en.wikipedia.org/wiki/20_Massalia
+_("Massalia","minor planet")
+# TRANSLATORS: Asteroid (21) Lutetia
+# TRANSLATORS: https://en.wikipedia.org/wiki/21_Lutetia
+_("Lutetia","minor planet")
+# TRANSLATORS: Asteroid (29) Amphitrite
+# TRANSLATORS: https://en.wikipedia.org/wiki/29_Amphitrite
+_("Amphitrite","minor planet")
+# TRANSLATORS: Asteroid (31) Euphrosyne
+# TRANSLATORS: https://en.wikipedia.org/wiki/31_Euphrosyne
+_("Euphrosyne","minor planet")
+# TRANSLATORS: Asteroid (41) Daphne
+# TRANSLATORS: https://en.wikipedia.org/wiki/41_Daphne
+_("Daphne","minor planet")
+# TRANSLATORS: Asteroid (45) Eugenia
+# TRANSLATORS: https://en.wikipedia.org/wiki/45_Eugenia
+_("Eugenia","minor planet")
+# TRANSLATORS: Asteroid (48) Doris
+# TRANSLATORS: https://en.wikipedia.org/wiki/48_Doris
+_("Doris","minor planet")
+# TRANSLATORS: Asteroid (65) Cybele
+# TRANSLATORS: https://en.wikipedia.org/wiki/65_Cybele
+_("Cybele","minor planet")
+# TRANSLATORS: Asteroid (87) Sylvia
+# TRANSLATORS: https://en.wikipedia.org/wiki/87_Sylvia
+_("Sylvia","minor planet")
+# TRANSLATORS: Asteroid (88) Thisbe
+# TRANSLATORS: https://en.wikipedia.org/wiki/88_Thisbe
+_("Thisbe","minor planet")
+# TRANSLATORS: Asteroid (90) Antiope
+# TRANSLATORS: https://en.wikipedia.org/wiki/90_Antiope
+_("Antiope","minor planet")
+# TRANSLATORS: Asteroid (92) Undina
+# TRANSLATORS: https://en.wikipedia.org/wiki/92_Undina
+_("Undina","minor planet")
+# TRANSLATORS: Asteroid (94) Aurora
+# TRANSLATORS: https://en.wikipedia.org/wiki/94_Aurora
+_("Aurora","minor planet")
+# TRANSLATORS: Asteroid (107) Camilla
+# TRANSLATORS: https://en.wikipedia.org/wiki/107_Camilla
+_("Camilla","minor planet")
+# TRANSLATORS: Asteroid (192) Nausikaa
+# TRANSLATORS: https://en.wikipedia.org/wiki/192_Nausikaa
+_("Nausikaa","minor planet")
+# TRANSLATORS: Asteroid (216) Kleopatra
+# TRANSLATORS: https://en.wikipedia.org/wiki/216_Kleopatra
+_("Kleopatra","minor planet")
+# TRANSLATORS: Asteroid (243) Ida
+# TRANSLATORS: https://en.wikipedia.org/wiki/243_Ida
+_("Ida","minor planet")
+# TRANSLATORS: Asteroid (253) Mathilde
+# TRANSLATORS: https://en.wikipedia.org/wiki/253_Mathilde
+_("Mathilde","minor planet")
+# TRANSLATORS: Asteroid (279) Thule
+# TRANSLATORS: https://en.wikipedia.org/wiki/279_Thule
+_("Thule","minor planet")
+# TRANSLATORS: Asteroid (288) Glauke
+# TRANSLATORS: https://en.wikipedia.org/wiki/288_Glauke
+_("Glauke","minor planet")
+# TRANSLATORS: Asteroid (323) Brucia
+# TRANSLATORS: https://en.wikipedia.org/wiki/323_Brucia
+_("Brucia","minor planet")
+# TRANSLATORS: Asteroid (324) Bamberga
+# TRANSLATORS: https://en.wikipedia.org/wiki/324_Bamberga
+_("Bamberga","minor planet")
+# TRANSLATORS: Asteroid (375) Ursula
+# TRANSLATORS: https://en.wikipedia.org/wiki/375_Ursula
+_("Ursula","minor planet")
+# TRANSLATORS: Asteroid (423) Diotima
+# TRANSLATORS: https://en.wikipedia.org/wiki/423_Diotima
+_("Diotima","minor planet")
+# TRANSLATORS: Asteroid (433) Eros
+# TRANSLATORS: https://en.wikipedia.org/wiki/433_Eros
+_("Eros","minor planet")
+# TRANSLATORS: Asteroid (451) Patientia
+# TRANSLATORS: https://en.wikipedia.org/wiki/451_Patientia
+_("Patientia","minor planet")
+# TRANSLATORS: Asteroid (490) Veritas
+# TRANSLATORS: https://en.wikipedia.org/wiki/490_Veritas
+_("Veritas","minor planet")
+# TRANSLATORS: Asteroid (511) Davida
+# TRANSLATORS: https://en.wikipedia.org/wiki/511_Davida
+_("Davida","minor planet")
+# TRANSLATORS: Asteroid (532) Herculina
+# TRANSLATORS: https://en.wikipedia.org/wiki/532_Herculina
+_("Herculina","minor planet")
+# TRANSLATORS: Asteroid (588) Achilles
+# TRANSLATORS: https://en.wikipedia.org/wiki/588_Achilles
+_("Achilles","minor planet")
+# TRANSLATORS: Asteroid (624) Hektor
+# TRANSLATORS: https://en.wikipedia.org/wiki/624_Hektor
+_("Hektor","minor planet")
+# TRANSLATORS: Asteroid (704) Interamnia
+# TRANSLATORS: https://en.wikipedia.org/wiki/704_Interamnia
+_("Interamnia","minor planet")
+# TRANSLATORS: Asteroid (719) Albert
+# TRANSLATORS: https://en.wikipedia.org/wiki/719_Albert
+_("Albert","minor planet")
+# TRANSLATORS: Asteroid (846) Lipperta
+# TRANSLATORS: https://en.wikipedia.org/wiki/846_Lipperta
+_("Lipperta","minor planet")
+# TRANSLATORS: Asteroid (912) Maritima
+# TRANSLATORS: https://en.wikipedia.org/wiki/912_Maritima
+_("Maritima","minor planet")
+# TRANSLATORS: Asteroid (944) Hidalgo
+# TRANSLATORS: https://en.wikipedia.org/wiki/944_Hidalgo
+_("Hidalgo","minor planet")
+# TRANSLATORS: Asteroid (951) Gaspra
+# TRANSLATORS: https://en.wikipedia.org/wiki/951_Gaspra
+_("Gaspra","minor planet")
+# TRANSLATORS: Asteroid (1036) Ganymed
+# TRANSLATORS: https://en.wikipedia.org/wiki/1036_Ganymed
+_("Ganymed","minor planet")
+# TRANSLATORS: Asteroid (1125) China
+# TRANSLATORS: https://en.wikipedia.org/wiki/1125_China
+_("China","minor planet")
+# TRANSLATORS: Asteroid (1221) Amor
+# TRANSLATORS: https://en.wikipedia.org/wiki/1221_Amor
+_("Amor","minor planet")
+# TRANSLATORS: Asteroid (1235) Schorria
+# TRANSLATORS: https://en.wikipedia.org/wiki/1235_Schorria
+_("Schorria","minor planet")
+# TRANSLATORS: Asteroid (1373) Cincinnati
+# TRANSLATORS: https://en.wikipedia.org/wiki/1373_Cincinnati
+_("Cincinnati","minor planet")
+# TRANSLATORS: Asteroid (1566) Icarus
+# TRANSLATORS: https://en.wikipedia.org/wiki/1566_Icarus
+_("Icarus","minor planet")
+# TRANSLATORS: Asteroid (1580) Betulia
+# TRANSLATORS: https://en.wikipedia.org/wiki/1580_Betulia
+_("Betulia","minor planet")
+# TRANSLATORS: Asteroid (1620) Geographos
+# TRANSLATORS: https://en.wikipedia.org/wiki/1620_Geographos
+_("Geographos","minor planet")
+# TRANSLATORS: Asteroid (1685) Toro
+# TRANSLATORS: https://en.wikipedia.org/wiki/1685_Toro
+_("Toro","minor planet")
+# TRANSLATORS: Asteroid (1863) Antinous
+# TRANSLATORS: https://en.wikipedia.org/wiki/1863_Antinous
+_("Antinous","minor planet")
+# TRANSLATORS: Asteroid (1864) Daedalus
+# TRANSLATORS: https://en.wikipedia.org/wiki/1864_Daedalus
+_("Daedalus","minor planet")
+# TRANSLATORS: Asteroid (1865) Cerberus
+# TRANSLATORS: https://en.wikipedia.org/wiki/1865_Cerberus
+_("Cerberus","minor planet")
+# TRANSLATORS: Asteroid (1866) Sisyphus
+# TRANSLATORS: https://en.wikipedia.org/wiki/1866_Sisyphus
+_("Sisyphus","minor planet")
+# TRANSLATORS: Asteroid (1902) Shaposhnikov
+# TRANSLATORS: https://en.wikipedia.org/wiki/1902_Shaposhnikov
+_("Shaposhnikov","minor planet")
+# TRANSLATORS: Asteroid (1981) Midas
+# TRANSLATORS: https://en.wikipedia.org/wiki/1981_Midas
+_("Midas","minor planet")
+# TRANSLATORS: Asteroid (2060) Chiron
+# TRANSLATORS: https://en.wikipedia.org/wiki/2060_Chiron
+_("Chiron","minor planet")
+# TRANSLATORS: Asteroid (2062) Aten
+# TRANSLATORS: https://en.wikipedia.org/wiki/2062_Aten
+_("Aten","minor planet")
+# TRANSLATORS: Asteroid (2063) Bacchus
+# TRANSLATORS: https://en.wikipedia.org/wiki/2063_Bacchus
+_("Bacchus","minor planet")
+# TRANSLATORS: Asteroid (2100) Ra-Shalom
+# TRANSLATORS: https://en.wikipedia.org/wiki/2100_Ra-Shalom
+_("Ra-Shalom","minor planet")
+# TRANSLATORS: Asteroid (2101) Adonis
+# TRANSLATORS: https://en.wikipedia.org/wiki/2101_Adonis
+_("Adonis","minor planet")
+# TRANSLATORS: Asteroid (2102) Tantalus
+# TRANSLATORS: https://en.wikipedia.org/wiki/2102_Tantalus
+_("Tantalus","minor planet")
+# TRANSLATORS: Asteroid (2135) Aristaeus
+# TRANSLATORS: https://en.wikipedia.org/wiki/2135_Aristaeus
+_("Aristaeus","minor planet")
+# TRANSLATORS: Asteroid (2201) Oljato
+# TRANSLATORS: https://en.wikipedia.org/wiki/2201_Oljato
+_("Oljato","minor planet")
+# TRANSLATORS: Asteroid (2212) Hephaistos
+# TRANSLATORS: https://en.wikipedia.org/wiki/2212_Hephaistos
+_("Hephaistos","minor planet")
+# TRANSLATORS: Asteroid (2329) Orthos
+# TRANSLATORS: https://en.wikipedia.org/wiki/2329_Orthos
+_("Orthos","minor planet")
+# TRANSLATORS: Asteroid (2340) Hathor
+# TRANSLATORS: https://en.wikipedia.org/wiki/2340_Hathor
+_("Hathor","minor planet")
+# TRANSLATORS: Asteroid (2675) Tolkien
+# TRANSLATORS: https://en.wikipedia.org/wiki/2675_Tolkien
+_("Tolkien","minor planet")
+# TRANSLATORS: Asteroid (2867) Šteins
+# TRANSLATORS: https://en.wikipedia.org/wiki/2867_%C5%A0teins
+_("Steins","minor planet")
+# TRANSLATORS: Asteroid (2938) Hopi
+# TRANSLATORS: https://en.wikipedia.org/wiki/2938_Hopi
+_("Hopi","minor planet")
+# TRANSLATORS: Asteroid (3103) Eger
+# TRANSLATORS: https://en.wikipedia.org/wiki/3103_Eger
+_("Eger","minor planet")
+# TRANSLATORS: Asteroid (3200) Phaethon
+# TRANSLATORS: https://en.wikipedia.org/wiki/3200_Phaethon
+_("Phaethon","minor planet")
+# TRANSLATORS: Asteroid (3360) Syrinx
+# TRANSLATORS: https://en.wikipedia.org/wiki/3360_Syrinx
+_("Syrinx","minor planet")
+# TRANSLATORS: Asteroid (3361) Orpheus
+# TRANSLATORS: https://en.wikipedia.org/wiki/3361_Orpheus
+_("Orpheus","minor planet")
+# TRANSLATORS: Asteroid (3362) Khufu
+# TRANSLATORS: https://en.wikipedia.org/wiki/3362_Khufu
+_("Khufu","minor planet")
+# TRANSLATORS: Asteroid (3554) Amun
+# TRANSLATORS: https://en.wikipedia.org/wiki/3554_Amun
+_("Amun","minor planet")
+# TRANSLATORS: Asteroid (3671) Dionysus
+# TRANSLATORS: https://en.wikipedia.org/wiki/3671_Dionysus
+_("Dionysus","minor planet")
+# TRANSLATORS: Asteroid (3752) Camillo
+# TRANSLATORS: https://en.wikipedia.org/wiki/3752_Camillo
+_("Camillo","minor planet")
+# TRANSLATORS: Asteroid (3753) Cruithne
+# TRANSLATORS: https://en.wikipedia.org/wiki/3753_Cruithne
+_("Cruithne","minor planet")
+# TRANSLATORS: Asteroid (3838) Epona
+# TRANSLATORS: https://en.wikipedia.org/wiki/3838_Epona
+_("Epona","minor planet")
+# TRANSLATORS: Asteroid (4015) Wilson–Harrington
+# TRANSLATORS: https://en.wikipedia.org/wiki/4015_Wilson-Harrington
+_("Wilson-Harrington","minor planet")
+# TRANSLATORS: Asteroid (4034) Vishnu
+# TRANSLATORS: https://en.wikipedia.org/wiki/4034_Vishnu
+_("Vishnu","minor planet")
+# TRANSLATORS: Asteroid (4179) Toutatis
+# TRANSLATORS: https://en.wikipedia.org/wiki/4179_Toutatis
+_("Toutatis","minor planet")
+# TRANSLATORS: Asteroid (4183) Cuno
+# TRANSLATORS: https://en.wikipedia.org/wiki/4183_Cuno
+_("Cuno","minor planet")
+# TRANSLATORS: Asteroid (4197) Morpheus
+# TRANSLATORS: https://en.wikipedia.org/wiki/4197_Morpheus
+_("Morpheus","minor planet")
+# TRANSLATORS: Asteroid (4257) Ubasti
+# TRANSLATORS: https://en.wikipedia.org/wiki/4257_Ubasti
+_("Ubasti","minor planet")
+# TRANSLATORS: Asteroid (4341) Poseidon
+# TRANSLATORS: https://en.wikipedia.org/wiki/4341_Poseidon
+_("Poseidon","minor planet")
+# TRANSLATORS: Asteroid (4486) Mithra
+# TRANSLATORS: https://en.wikipedia.org/wiki/4486_Mithra
+_("Mithra","minor planet")
+# TRANSLATORS: Asteroid (4524) Barklajdetolli
+# TRANSLATORS: https://en.wikipedia.org/wiki/4524_Barklajdetolli
+_("Barklajdetolli","minor planet")
+# TRANSLATORS: Asteroid (4544) Xanthus
+# TRANSLATORS: https://en.wikipedia.org/wiki/4544_Xanthus
+_("Xanthus","minor planet")
+# TRANSLATORS: Asteroid (4581) Asclepius
+# TRANSLATORS: https://en.wikipedia.org/wiki/4581_Asclepius
+_("Asclepius","minor planet")
+# TRANSLATORS: Asteroid (4660) Nereus
+# TRANSLATORS: https://en.wikipedia.org/wiki/4660_Nereus
+_("Nereus","minor planet")
+# TRANSLATORS: Asteroid (4769) Castalia
+# TRANSLATORS: https://en.wikipedia.org/wiki/4769_Castalia
+_("Castalia","minor planet")
+# TRANSLATORS: Asteroid (5011) Ptah
+# TRANSLATORS: https://en.wikipedia.org/wiki/5011_Ptah
+_("Ptah","minor planet")
+# TRANSLATORS: Asteroid (5143) Heracles
+# TRANSLATORS: https://en.wikipedia.org/wiki/5143_Heracles
+_("Heracles","minor planet")
+# TRANSLATORS: Asteroid (5261) Eureka
+# TRANSLATORS: https://en.wikipedia.org/wiki/5261_Eureka
+_("Eureka","minor planet")
+# TRANSLATORS: Asteroid (5381) Sekhmet
+# TRANSLATORS: https://en.wikipedia.org/wiki/5381_Sekhmet
+_("Sekhmet","minor planet")
+# TRANSLATORS: Asteroid (5535) Annefrank
+# TRANSLATORS: https://en.wikipedia.org/wiki/5535_Annefrank
+_("Annefrank","minor planet")
+# TRANSLATORS: Asteroid (5731) Zeus
+# TRANSLATORS: https://en.wikipedia.org/wiki/5731_Zeus
+_("Zeus","minor planet")
+# TRANSLATORS: Asteroid (5786) Talos
+# TRANSLATORS: https://en.wikipedia.org/wiki/5786_Talos
+_("Talos","minor planet")
+# TRANSLATORS: Asteroid (6063) Jason
+# TRANSLATORS: https://en.wikipedia.org/wiki/6063_Jason
+_("Jason","minor planet")
+# TRANSLATORS: Asteroid (6239) Minos
+# TRANSLATORS: https://en.wikipedia.org/wiki/6239_Minos
+_("Minos","minor planet")
+# TRANSLATORS: Asteroid (7092) Cadmus
+# TRANSLATORS: https://en.wikipedia.org/wiki/7092_Cadmus
+_("Cadmus","minor planet")
+# TRANSLATORS: Asteroid (9162) Kwiila
+# TRANSLATORS: https://en.wikipedia.org/wiki/9162_Kwiila
+_("Kwiila","minor planet")
+# TRANSLATORS: Asteroid (9969) Braille
+# TRANSLATORS: https://en.wikipedia.org/wiki/9969_Braille
+_("Braille","minor planet")
+# TRANSLATORS: Asteroid (10563) Izhdubar
+# TRANSLATORS: https://en.wikipedia.org/wiki/10563_Izhdubar
+_("Izhdubar","minor planet")
+# TRANSLATORS: Asteroid (11066) Sigurd
+# TRANSLATORS: https://en.wikipedia.org/wiki/11066_Sigurd
+_("Sigurd","minor planet")
+# TRANSLATORS: Asteroid (11311) Peleus
+# TRANSLATORS: https://en.wikipedia.org/wiki/11311_Peleus
+_("Peleus","minor planet")
+# TRANSLATORS: Asteroid (11500) Tomaiyowit
+# TRANSLATORS: https://en.wikipedia.org/wiki/11500_Tomaiyowit
+_("Tomaiyowit","minor planet")
+# TRANSLATORS: Asteroid (11885) Summanus
+# TRANSLATORS: https://en.wikipedia.org/wiki/11885_Summanus
+_("Summanus","minor planet")
+# TRANSLATORS: Asteroid (12711) Tukmit
+# TRANSLATORS: https://en.wikipedia.org/wiki/12711_Tukmit
+_("Tukmit","minor planet")
+# TRANSLATORS: Asteroid (12923) Zephyr
+# TRANSLATORS: https://en.wikipedia.org/wiki/12923_Zephyr
+_("Zephyr","minor planet")
+# TRANSLATORS: Asteroid (14827) Hypnos
+# TRANSLATORS: https://en.wikipedia.org/wiki/14827_Hypnos
+_("Hypnos","minor planet")
+# TRANSLATORS: Asteroid (24761) Ahau
+# TRANSLATORS: https://en.wikipedia.org/wiki/24761_Ahau
+_("Ahau","minor planet")
+# TRANSLATORS: Asteroid (25143) Itokawa
+# TRANSLATORS: https://en.wikipedia.org/wiki/25143_Itokawa
+_("Itokawa","minor planet")
+# TRANSLATORS: Asteroid (37655) Illapa
+# TRANSLATORS: https://en.wikipedia.org/wiki/37655_Illapa
+_("Illapa","minor planet")
+# TRANSLATORS: Asteroid (38086) Beowulf
+# TRANSLATORS: https://en.wikipedia.org/wiki/38086_Beowulf
+_("Beowulf","minor planet")
+# TRANSLATORS: Asteroid (65803) Didymos
+# TRANSLATORS: https://en.wikipedia.org/wiki/65803_Didymos
+_("Didymos","minor planet")
+# TRANSLATORS: Asteroid (69230) Hermes
+# TRANSLATORS: https://en.wikipedia.org/wiki/69230_Hermes
+_("Hermes","minor planet")
+# TRANSLATORS: Asteroid (85585) Mjolnir
+# TRANSLATORS: https://en.wikipedia.org/wiki/85585_Mjolnir
+_("Mjolnir","minor planet")
+# TRANSLATORS: Asteroid (99942) Apophis
+# TRANSLATORS: https://en.wikipedia.org/wiki/99942_Apophis
+_("Apophis","minor planet")
+# TRANSLATORS: Asteroid (136818) Selqet
+# TRANSLATORS: https://en.wikipedia.org/wiki/136818_Selqet
+_("Selqet","minor planet")
+# TRANSLATORS: Asteroid (137052) Tjelvar
+# TRANSLATORS: https://en.wikipedia.org/wiki/137052_Tjelvar
+_("Tjelvar","minor planet")
+# TRANSLATORS: Asteroid (163693) Atira
+# TRANSLATORS: https://en.wikipedia.org/wiki/163693_Atira
+_("Atira","minor planet")
+# TRANSLATORS: Asteroid (306367) Nut
+# TRANSLATORS: https://en.wikipedia.org/wiki/306367_Nut
+_("Nut","minor planet")
+# TRANSLATORS: Asteroid (326290) Akhenaten
+# TRANSLATORS: https://en.wikipedia.org/wiki/326290_Akhenaten
+_("Akhenaten","minor planet")
+# TRANSLATORS: Asteroid (367943) Duende [2012 DA14]
+# TRANSLATORS: https://en.wikipedia.org/wiki/367943_Duende
+_("Duende","minor planet")
+# TRANSLATORS: Asteroid (385571) Otrera [2004 UP10]
+# TRANSLATORS: https://en.wikipedia.org/wiki/385571_Otrera
+_("Otrera","minor planet")
+
+#
+# Comets
+#
+# TRANSLATORS: Proper name of comet C/1680 V1
+_("Great Comet of 1680 (C/1680 V1)","comet")
+
+#################################################
+#                 EXTRA DATA                    #
+#################################################
+
+#
+# Supernovae from Historical Supernovae plugin
+#
+# TRANSLATORS: Name of supernova SN 1572A
+# TRANSLATORS: https://en.wikipedia.org/wiki/SN_1572
+_("Tycho's Supernova")
+# TRANSLATORS: Name of supernova SN 1604A
+# TRANSLATORS: https://en.wikipedia.org/wiki/Kepler%27s_Supernova
+_("Kepler's Supernova")
+# TRANSLATORS: Name of supernova SN 1680A
+# TRANSLATORS: https://en.wikipedia.org/wiki/Cassiopeia_A
+_("Cassiopeia A")
+# TRANSLATORS: Name of supernova SN 1885A
+# TRANSLATORS: https://en.wikipedia.org/wiki/SN_1885A
+_("S Andromedae")
+#
+# Novae from Bright Novae plugin
+#
+# TRANSLATORS: Template for Nova name
+_("Nova", "Nova template")
+#
+# Pulsars from Pulsars plugin
+#
+# TRANSLATORS: Proper name of pulsar PSR J0534+2200 (Source: SIMBAD)
+_("Crab Pulsar")
+# TRANSLATORS: Proper name of pulsar PSR J0633+1746 (Source: SIMBAD; https://en.wikipedia.org/wiki/Geminga)
+_("Geminga Pulsar")
+# TRANSLATORS: Proper name of pulsar PSR J0659+1414 (Source: SIMBAD)
+_("Monogem Pulsar")
+# TRANSLATORS: Proper name of pulsar PSR J0834-4511 or PSR J0835-4510 (Source: SIMBAD; https://en.wikipedia.org/wiki/Vela_Pulsar)
+_("Vela Pulsar")
+# TRANSLATORS: Proper name of pulsar PSR J1300+1240 (Source: SIMBAD; https://en.wikipedia.org/wiki/PSR_B1257%2B12)
+_("Lich")
+# TRANSLATORS: Proper name of pulsar PSR J1412+7922 (Source: SIMBAD)
+_("Calvera")
+# TRANSLATORS: Proper name of pulsar PSR J1513-5908 (Source: SIMBAD)
+_("Cir Pulsar")
+# TRANSLATORS: Proper name of pulsar PSR J1809-2332 (Source: SIMBAD)
+_("Tasmanian Devil Nebula")
+# TRANSLATORS: Proper name of pulsar PSR J1915+1606 (Source: SIMBAD; https://en.wikipedia.org/wiki/Hulse–Taylor_binary)
+_("Hulse-Taylor Pulsar")
+# TRANSLATORS: Proper name of pulsar PSR J1959+2048 (Source: SIMBAD)
+_("Black Widow")
+# TRANSLATORS: Proper name of pulsar PSR J2021+3651 (Source: SIMBAD)
+_("Dragonfly Nebula")
+# TRANSLATORS: Proper name of pulsar PSR J2225+6535 (Source: SIMBAD)
+_("Guitar Nebula")
+# TRANSLATORS: Proper name of pulsar PSR J1921+2153 (Source: SIMBAD; LGM is abbreviation for "little green men"; https://en.wikipedia.org/wiki/PSR_B1919%2B21)
+_("LGM-1")
+#
+# Exoplanet systems from Exoplanets plugin
+#
+# TRANSLATORS: Proper name of star 14 Andromedae
+# TRANSLATORS: https://en.wikipedia.org/wiki/14_Andromedae
+_("Veritate")
+# TRANSLATORS: Proper name of exoplanet 14 Andromedae b
+# TRANSLATORS: https://en.wikipedia.org/wiki/14_Andromedae_b
+_("Spe")
+# TRANSLATORS: Proper name of star 18 Delphini
+# TRANSLATORS: https://en.wikipedia.org/wiki/18_Delphini
+_("Musica")
+# TRANSLATORS: Proper name of exoplanet 18 Delphini b
+# TRANSLATORS: https://en.wikipedia.org/wiki/18_Delphini_b
+_("Arion")
+# TRANSLATORS: Proper name of star 42 Draconis
+# TRANSLATORS: https://en.wikipedia.org/wiki/42_Draconis
+_("Fafnir")
+# TRANSLATORS: Proper name of exoplanet 42 Draconis b
+# TRANSLATORS: https://en.wikipedia.org/wiki/42_Draconis_b
+_("Orbitar")
+# TRANSLATORS: Proper name of star 47 Ursae Majoris
+# TRANSLATORS: https://en.wikipedia.org/wiki/47_Ursae_Majoris
+_("Chalawan")
+# TRANSLATORS: Proper name of exoplanet 47 Ursae Majoris b
+# TRANSLATORS: https://en.wikipedia.org/wiki/47_Ursae_Majoris_b
+_("Taphao Thong")
+# TRANSLATORS: Proper name of exoplanet 47 Ursae Majoris c
+# TRANSLATORS: https://en.wikipedia.org/wiki/47_Ursae_Majoris_c
+_("Taphao Kaew")
+# TRANSLATORS: Proper name of star 51 Pegasi
+# TRANSLATORS: https://en.wikipedia.org/wiki/51_Pegasi
+_("Helvetios")
+# TRANSLATORS: Proper name of exoplanet 51 Pegasi b
+# TRANSLATORS: https://en.wikipedia.org/wiki/51_Pegasi_b
+_("Dimidium")
+# TRANSLATORS: Proper name of star 55 Cancri
+# TRANSLATORS: https://en.wikipedia.org/wiki/55_Cancri
+_("Copernicus")
+# TRANSLATORS: Proper name of exoplanet 55 Cancri b
+# TRANSLATORS: https://en.wikipedia.org/wiki/55_Cancri_b
+_("Galileo")
+# TRANSLATORS: Proper name of exoplanet 55 Cancri c
+# TRANSLATORS: https://en.wikipedia.org/wiki/55_Cancri_c
+_("Brahe")
+# TRANSLATORS: Proper name of exoplanet 55 Cancri d
+# TRANSLATORS: https://en.wikipedia.org/wiki/55_Cancri_d
+_("Lipperhey")
+# TRANSLATORS: Proper name of exoplanet 55 Cancri e
+# TRANSLATORS: https://en.wikipedia.org/wiki/55_Cancri_e
+_("Janssen")
+# TRANSLATORS: Proper name of exoplanet 55 Cancri f
+# TRANSLATORS: https://en.wikipedia.org/wiki/55_Cancri_f
+_("Harriot")
+# TRANSLATORS: Proper name of exoplanet Ain b (epsilon Tauri b)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Epsilon_Tauri_b
+_("Amateru")
+# TRANSLATORS: Proper name of exoplanet Edasich b (iota Draconis b)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Iota_Draconis_b
+_("Hypatia")
+# TRANSLATORS: Proper name of star epsilon Eridani
+# TRANSLATORS: https://en.wikipedia.org/wiki/Epsilon_Eridani
+_("Ran")
+# TRANSLATORS: Proper name of exoplanet epsilon Eridani b
+# TRANSLATORS: https://en.wikipedia.org/wiki/Epsilon_Eridani_b
+_("AEgir")
+# TRANSLATORS: Proper name of exoplanet Errai b (gamma Cephei Ab)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Gamma_Cephei_Ab
+_("Tadmor")
+# TRANSLATORS: Proper name of exoplanet Fomalhaut b (alpha Piscis Austrini b)
+# TRANSLATORS: https://en.wikipedia.org/wiki/Fomalhaut_b
+_("Dagon")
+# TRANSLATORS: Proper name of star HD 104985
+# TRANSLATORS: https://en.wikipedia.org/wiki/HD_104985
+_("Tonatiuh")
+# TRANSLATORS: Proper name of exoplanet HD 104985 b
+# TRANSLATORS: https://en.wikipedia.org/wiki/HD_104985_b
+_("Meztli")
+# TRANSLATORS: Proper name of star HD 149026
+# TRANSLATORS: https://en.wikipedia.org/wiki/HD_149026
+_("Ogma")
+# TRANSLATORS: Proper name of exoplanet HD 149026 b
+# TRANSLATORS: https://en.wikipedia.org/wiki/HD_149026_b
+_("Smertrios")
+# TRANSLATORS: Proper name of star HD 81688
+# TRANSLATORS: https://en.wikipedia.org/wiki/41_Lyncis
+_("Intercrus")
+# TRANSLATORS: Proper name of exoplanet HD 81688 b
+# TRANSLATORS: https://en.wikipedia.org/wiki/41_Lyncis_b
+_("Arkas")
+# TRANSLATORS: Proper name of star mu Arae
+# TRANSLATORS: https://en.wikipedia.org/wiki/Mu_Arae
+_("Cervantes")
+# TRANSLATORS: Proper name of exoplanet mu Arae b
+# TRANSLATORS: https://en.wikipedia.org/wiki/Mu_Arae_b
+_("Quijote")
+# TRANSLATORS: Proper name of exoplanet mu Arae c
+# TRANSLATORS: https://en.wikipedia.org/wiki/Mu_Arae_c
+_("Dulcinea")
+# TRANSLATORS: Proper name of exoplanet mu Arae d
+# TRANSLATORS: https://en.wikipedia.org/wiki/Mu_Arae_d
+_("Rocinante")
+# TRANSLATORS: Proper name of exoplanet mu Arae e
+# TRANSLATORS: https://en.wikipedia.org/wiki/Mu_Arae_e
+_("Sancho")
+# TRANSLATORS: Proper name of exoplanet Pollux b
+# TRANSLATORS: https://en.wikipedia.org/wiki/Pollux_b
+_("Thestias")
+# TRANSLATORS: Proper name of pulsar PSR 1257+12
+# TRANSLATORS: https://en.wikipedia.org/wiki/PSR_B1257%2B12
+_("Lich")
+# TRANSLATORS: Proper name of exoplanet PSR 1257+12 b
+# TRANSLATORS: https://en.wikipedia.org/wiki/PSR_B1257%2B12_b
+_("Draugr")
+# TRANSLATORS: Proper name of exoplanet PSR 1257+12 c
+# TRANSLATORS: https://en.wikipedia.org/wiki/PSR_B1257%2B12_c
+_("Poltergeist")
+# TRANSLATORS: Proper name of exoplanet PSR 1257+12 d
+# TRANSLATORS: https://en.wikipedia.org/wiki/PSR_B1257%2B12_d
+_("Phobetor")
+# TRANSLATORS: Proper name of star upsilon Andromedae
+# TRANSLATORS: https://en.wikipedia.org/wiki/Upsilon_Andromedae
+_("Titawin")
+# TRANSLATORS: Proper name of exoplanet upsilon Andromedae b
+# TRANSLATORS: https://en.wikipedia.org/wiki/Upsilon_Andromedae_b
+_("Saffar")
+# TRANSLATORS: Proper name of exoplanet upsilon Andromedae c
+# TRANSLATORS: https://en.wikipedia.org/wiki/Upsilon_Andromedae_c
+_("Samh")
+# TRANSLATORS: Proper name of exoplanet upsilon Andromedae d
+# TRANSLATORS: https://en.wikipedia.org/wiki/Upsilon_Andromedae_d
+_("Majriti")
+# TRANSLATORS: Proper name of star xi Aquilae
+# TRANSLATORS: https://en.wikipedia.org/wiki/Xi_Aquilae
+_("Libertas")
+# TRANSLATORS: Proper name of exoplanet xi Aquilae b
+# TRANSLATORS: https://en.wikipedia.org/wiki/Xi_Aquilae_b
+_("Fortitudo")
+
+#
+# Genitive names of constellations
+#
+_("Andromedae", "Genitive name of constellation")
+_("Antliae","Genitive name of constellation")
+_("Apodis","Genitive name of constellation")
+_("Aquarii","Genitive name of constellation")
+_("Aquilae","Genitive name of constellation")
+_("Arae","Genitive name of constellation")
+_("Arietis","Genitive name of constellation")
+_("Aurigae","Genitive name of constellation")
+_("Bootis","Genitive name of constellation")
+_("Caeli","Genitive name of constellation")
+_("Camelopardalis","Genitive name of constellation")
+_("Cancri","Genitive name of constellation")
+_("Canum Venaticorum","Genitive name of constellation")
+_("Canis Majoris","Genitive name of constellation")
+_("Canis Minoris","Genitive name of constellation")
+_("Capricorni","Genitive name of constellation")
+_("Carinae","Genitive name of constellation")
+_("Cassiopeiae","Genitive name of constellation")
+_("Centauri","Genitive name of constellation")
+_("Cephei","Genitive name of constellation")
+_("Ceti","Genitive name of constellation")
+_("Chamaeleontis","Genitive name of constellation")
+_("Circini","Genitive name of constellation")
+_("Columbae","Genitive name of constellation")
+_("Comae Berenices","Genitive name of constellation")
+_("Coronae Australis","Genitive name of constellation")
+_("Coronae Borealis","Genitive name of constellation")
+_("Corvi","Genitive name of constellation")
+_("Crateris","Genitive name of constellation")
+_("Crucis","Genitive name of constellation")
+_("Cygni","Genitive name of constellation")
+_("Delphini","Genitive name of constellation")
+_("Doradus","Genitive name of constellation")
+_("Draconis","Genitive name of constellation")
+_("Equulei","Genitive name of constellation")
+_("Eridani","Genitive name of constellation")
+_("Fornacis","Genitive name of constellation")
+_("Geminorum","Genitive name of constellation")
+_("Gruis","Genitive name of constellation")
+_("Herculis","Genitive name of constellation")
+_("Horologii","Genitive name of constellation")
+_("Hydrae","Genitive name of constellation")
+_("Hydri","Genitive name of constellation")
+_("Indi","Genitive name of constellation")
+_("Lacertae","Genitive name of constellation")
+_("Leonis","Genitive name of constellation")
+_("Leonis Minoris","Genitive name of constellation")
+_("Leporis","Genitive name of constellation")
+_("Librae","Genitive name of constellation")
+_("Lupi","Genitive name of constellation")
+_("Lyncis","Genitive name of constellation")
+_("Lyrae","Genitive name of constellation")
+_("Mensae","Genitive name of constellation")
+_("Microscopii","Genitive name of constellation")
+_("Monocerotis","Genitive name of constellation")
+_("Muscae","Genitive name of constellation")
+_("Normae","Genitive name of constellation")
+_("Octantis","Genitive name of constellation")
+_("Ophiuchi","Genitive name of constellation")
+_("Orionis","Genitive name of constellation")
+_("Pavonis","Genitive name of constellation")
+_("Pegasi","Genitive name of constellation")
+_("Persei","Genitive name of constellation")
+_("Phoenicis","Genitive name of constellation")
+_("Pictoris","Genitive name of constellation")
+_("Piscium","Genitive name of constellation")
+_("Piscis Austrini","Genitive name of constellation")
+_("Puppis","Genitive name of constellation")
+_("Pyxidis","Genitive name of constellation")
+_("Reticuli","Genitive name of constellation")
+_("Sagittae","Genitive name of constellation")
+_("Sagittarii","Genitive name of constellation")
+_("Scorpii","Genitive name of constellation")
+_("Sculptoris","Genitive name of constellation")
+_("Scuti","Genitive name of constellation")
+_("Serpentis","Genitive name of constellation")
+_("Sextantis","Genitive name of constellation")
+_("Tauri","Genitive name of constellation")
+_("Telescopii","Genitive name of constellation")
+_("Trianguli","Genitive name of constellation")
+_("Trianguli Australis","Genitive name of constellation")
+_("Tucanae","Genitive name of constellation")
+_("Ursae Majoris","Genitive name of constellation")
+_("Ursae Minoris","Genitive name of constellation")
+_("Velorum","Genitive name of constellation")
+_("Virginis","Genitive name of constellation")
+_("Volantis","Genitive name of constellation")
+_("Vulpeculae","Genitive name of constellation")

@@ -1,0 +1,7 @@
+matplotlib
+numpy
+cartopy
+pandas
+glob
+os
+jupyter
